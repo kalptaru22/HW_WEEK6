@@ -9,9 +9,10 @@ public class Ans11 {
     public static void main(String[] args) {
         calculation();
     }
+
     public static void calculation() {
         double e = ((a * b - b * b) / (c - d));
-        System.out.println("Expected Output: "+e);
+        System.out.println("Expected Output: " + e);
     }
 
 
